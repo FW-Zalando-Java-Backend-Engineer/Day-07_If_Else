@@ -144,8 +144,8 @@ switch (grade) {
 ## **📚 Additional Resources**
 - [Java If-Else Statements (Oracle)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 - [Java Switch Case (Oracle)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-- [Logical Operators in Java (GeeksForGeeks)](https://www.geeksforgeeks.org/logical-operators-in-java/)
-- [Ternary Operator in Java (W3Schools)](https://www.w3schools.com/java/java_conditions.asp)
+- [Logical Operators in Java (GeeksForGeeks)](https://www.geeksforgeeks.org/java-logical-operators-with-examples/)
+- [Ternary Operator in Java (W3Schools)](https://www.w3schools.com/java/java_conditions_shorthand.asp)
 - [Video Lesson Recording](_will be added later_)
 - [Lesson Slides: If-Else & Switch Structures](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-07_If_Else/blob/main/Control%20Flow%20Structure-If-else%20and%20switch%20Statement.pdf)
 
